@@ -1,3 +1,3 @@
 #Shopping List
 
-Simpple shopping list app by using Modern JS
+Simple shopping list app by using Modern JS
